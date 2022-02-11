@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic html site without any css. It was made to demonstrate the skills I have learned thus far in the odin project. This includes creating the basic html boilerplate, creating symantically correct heirachy with headings, creating lists, adding images, and linking pages together.
